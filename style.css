@@ -127,13 +127,13 @@ tr:hover {
   font-family: arial, sans-serif;
   font-size: 14px;
   font-weight: 500;
-  text-decoration-color: #111111;
   text-decoration: none;
   padding: 7px;
   background-color: #91c1ee;
   text-align: center;
   margin: 18px;
   letter-spacing: 1px;
+  color: #111111;
 
 }
 
