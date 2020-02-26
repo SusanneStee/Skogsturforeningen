@@ -1,0 +1,207 @@
+body {
+  background-color: #b3daff;
+}
+
+h1 {
+  font-family:georgia, serif;
+  font-size: 36px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 4px;
+}
+
+h2 {
+  font-family: georgia, serif;
+  font-size: 22px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+}
+
+form {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #222222;
+}
+
+input {
+  width: 160px;
+  padding: 7px;
+  margin: 5px;
+  border-bottom: 2px solid #91c1ee;
+  border-top: 0px solid red;
+  border-left: 0px solid red;
+  border-right: 0px solid red;
+  background-color: #d4e7f9;
+  border-radius: 4px;
+}
+
+select {
+  width: 160px;
+  padding: 7px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #d4e7f9;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #91c1ee;
+  border: none;
+  padding: 8px;
+  text-decoration: none;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+table {
+  border: 0px solid black;
+  font-family: arial, sans-serif;
+  line-height: 25px;
+  text-align: center;
+  width: 42%;
+  min-width: 450px;
+  max-width: 807px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-spacing: 0px;
+}
+
+td {
+  border: 0px solid black;
+  color: #222222;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+th {
+  border: 0px solid black;
+  font-size: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #91c1ee;
+  font-weight: lighter;
+}
+
+tr:hover {
+  background-color: #a3d0fb;
+  transition-duration: 0.5s;
+}
+
+.brodtekst {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  line-height: 25px;
+  width: 35%;
+  max-width: 580px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: -55px;
+  width: auto;
+  text-align: center;
+}
+
+.button {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration-color: #111111;
+  text-decoration: none;
+  padding: 7px;
+  background-color: #91c1ee;
+  text-align: center;
+  margin: 18px;
+  letter-spacing: 1px;
+
+}
+
+.meny {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 31%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  min-width: 470px;
+}
+
+.button:hover {
+  background-color: #75b1ea;
+  transition-duration: 0.5s;
+}
+
+.button:visited {
+  color: #111111;
+}
+
+.skog1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  max-width: 580px;
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+.skog2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 42%;
+  min-width: 450px;
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+.sitat {
+  font-family: serif, georgia;
+  font-style: italic;
+  font-size: 19px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  width: 31%
+}
+
+.forfatter {
+  font-family: sans-serif, arial;
+  font-weight: bold;
+  font-size: 14px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  width: 31%;
+  margin-bottom: 100px;
+}
+
+.medlem {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  line-height: 25px;
+}
